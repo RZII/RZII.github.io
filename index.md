@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to My Personal Website
+
+This website is still under construction.
 
 You can use the [editor on GitHub](https://github.com/RZII/RZII.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
