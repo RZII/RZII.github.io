@@ -6,8 +6,8 @@ This is my [GitHub Homepage](https://github.com/RZII), and my [LinkedIn Homepage
 
 Here is the list of CS-related courses I have taken.
 
-1. [APS 105](https://engineering.calendar.utoronto.ca/course/aps105h1), an introductory course in C language, from UofT.
-2. [Python for Everybody](https://www.py4e.com), an introductory course in Python, from UMich.
+1. [APS 105](https://engineering.calendar.utoronto.ca/course/aps105h1), an introductory course in C language, from UofT. This was the very first CS course I had taken, and I enjoyed it quite a lot, the course content and the instructor Baochun Li were great.
+2. [Python for Everybody](https://www.py4e.com), an introductory course in Python, taught by a professor from UMich. I did not enjoy it much because the nature of this course: for everybody, which stopped the course from going into depth.
 
 
 Here is the list of courses I am currently taking.
@@ -17,15 +17,17 @@ Here is the list of courses I am currently taking.
 
 And here is the list of courses I plan to take.
 
-1. [MIT Missing Semester](https://missing.csail.mit.edu), a course that teaches how to better utilize computer tools such as command-line, from MIT.
+1. [MIT Missing Semester](https://missing.csail.mit.edu), a course on computer tools such as command-line, from MIT.
 2. [CS 61B](https://cs61bl.org/su22/), Data Structures, from UCB.
 3. [CS 70](https://www.eecs70.org), Discrete Mathematics, from UCB.
-4. [EECS 281](https://www.eecs.umich.edu/courses/eecs281/), Data Structures and Algorithms, from UMich.
-5. [EECS 370](https://eecs370.github.io), Intro to Computer Organization, from UMich.
-6. [EECS 376](https://eecs376.org), Foundations of Computer Science, from Umich.
-7. MATH 217, Linear Algebra, from UMich.
-8. EECS 484, Database Management System, from UMich.
-9. EECS 485, Web Systems, from UMich.
+4. [CS 106B](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1226/), Programming Abstractions in C++, from Stanford.
+5. [CS 106L](http://web.stanford.edu/class/cs106l/), Standard C++ Programming, from Stanford.
+6. [EECS 281](https://www.eecs.umich.edu/courses/eecs281/), Data Structures and Algorithms, from UMich.
+7. [EECS 370](https://eecs370.github.io), Intro to Computer Organization, from UMich.
+8. [EECS 376](https://eecs376.org), Foundations of Computer Science, from Umich.
+9. MATH 217, Linear Algebra, from UMich.
+10. EECS 484, Database Management System, from UMich.
+11. EECS 485, Web Systems, from UMich.
 
 
 
