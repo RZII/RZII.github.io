@@ -4,18 +4,18 @@ This website is still under construction. I am still learning how to build and d
 
 This is my [GitHub Homepage](https://github.com/RZII), and my [LinkedIn Homepage](https://www.linkedin.com/in/hanxiang-zhang-472a26223/).
 
-Here is the list of CS-related courses I have taken.
+### Here is the list of CS-related courses I have taken.
 
 1. [APS 105](https://engineering.calendar.utoronto.ca/course/aps105h1), an introductory course in C language, from UofT. This was the very first CS course I had taken, and I enjoyed it quite a lot, the course content and the instructor Baochun Li were great.
 2. [Python for Everybody](https://www.py4e.com), an introductory course in Python, taught by a professor from UMich. I did not enjoy it much because the nature of this course: for everybody, which stopped the course from going into depth.
 
 
-Here is the list of courses I am currently taking.
+### Here is the list of courses I am currently taking.
 
 1. [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/fa21/), SICP in Python, from UCB.
 
 
-And here is the list of courses I plan to take.
+### And here is the list of courses I plan to take.
 
 1. [MIT Missing Semester](https://missing.csail.mit.edu), a course on computer tools such as command-line, from MIT.
 2. [CS 61B](https://cs61bl.org/su22/), Data Structures, from UCB.
