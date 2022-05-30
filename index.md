@@ -1,7 +1,8 @@
 # Welcome to My Personal Website
 
-This website is still under construction.
-My [GitHub Homepage](https://github.com/RZII), [LinkedIn](https://www.linkedin.com/in/hanxiang-zhang-472a26223/).
+This website is still under construction. I am still learning how to build and decorate a website, so it might look pretty messy for the moment.
+
+This is my [GitHub Homepage](https://github.com/RZII), and my [LinkedIn Homepage](https://www.linkedin.com/in/hanxiang-zhang-472a26223/).
 
 Here is the list of CS-related courses I have taken.
 
