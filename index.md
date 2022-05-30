@@ -1,6 +1,37 @@
 # Welcome to My Personal Website
 
 This website is still under construction.
+My [GitHub Homepage](https://github.com/RZII), [LinkedIn](https://www.linkedin.com/in/hanxiang-zhang-472a26223/).
+
+Here is the list of CS-related courses I have taken.
+
+1. [APS 105](https://engineering.calendar.utoronto.ca/course/aps105h1), an introductory course in C language, from UofT.
+2. [Python for Everybody](https://www.py4e.com), an introductory course in Python, from UMich.
+
+
+Here is the list of courses I am currently taking.
+
+1. [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/fa21/), SICP in Python, from UCB.
+
+
+And here is the list of courses I plan to take.
+
+1. [MIT Missing Semester](https://missing.csail.mit.edu), a course that teaches how to better utilize computer tools such as command-line, from MIT.
+2. [CS 61B](https://cs61bl.org/su22/), Data Structures, from UCB.
+3. [CS 70](https://www.eecs70.org), Discrete Mathematics, from UCB.
+4. [EECS 281](https://www.eecs.umich.edu/courses/eecs281/), Data Structures and Algorithms, from UMich.
+5. [EECS 370](https://eecs370.github.io), Intro to Computer Organization, from UMich.
+6. [EECS 376](https://eecs376.org), Foundations of Computer Science, from Umich.
+7. MATH 217, Linear Algebra, from UMich.
+8. EECS 484, Database Management System, from UMich.
+9. EECS 485, Web Systems, from UMich.
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/RZII/RZII.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
