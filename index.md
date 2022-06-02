@@ -15,21 +15,6 @@ This is my [GitHub Homepage](https://github.com/RZII), and my [LinkedIn Homepage
 1. [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/fa21/), SICP in Python, from UCB.
 
 
-### And here is the list of courses I plan to/am considering to take.
-
-1. [MIT Missing Semester](https://missing.csail.mit.edu), a course on computer tools such as command-line, from MIT.
-2. [CS 61B](https://cs61bl.org/su22/), Data Structures, from UCB.
-3. [CS 70](https://www.eecs70.org), Discrete Mathematics, from UCB.
-4. [CS 106B](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1226/), Programming Abstractions in C++, from Stanford.
-5. [CS 106L](http://web.stanford.edu/class/cs106l/), Standard C++ Programming, from Stanford.
-6. [EECS 281](https://www.eecs.umich.edu/courses/eecs281/), Data Structures and Algorithms, from UMich.
-7. [EECS 370](https://eecs370.github.io), Intro to Computer Organization, from UMich.
-8. [EECS 376](https://eecs376.org), Foundations of Computer Science, from Umich.
-9. MATH 217, Linear Algebra, from UMich.
-10. EECS 484, Database Management System, from UMich.
-11. EECS 485, Web Systems, from UMich.
-
-
 
 
 
