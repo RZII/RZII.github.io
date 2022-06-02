@@ -8,7 +8,7 @@ This is my [GitHub Homepage](https://github.com/RZII), and my [LinkedIn Homepage
 
 I was born in Shanghai, China. I went to Switerland for my High School studying IB (International Baccalaureate).
 
-After High School, I spent my freshman year (Sep 2021 - May 2022) at Faculty of Applied Science and Engineering, University of Toronto. During this year, I applied for transfer admission into some universities in the US, and I decided to commit to UMich for my next 3 years to study Computer Science.
+Graduating from High School, I spent my freshman year (Sep 2021 - May 2022) at Faculty of Applied Science and Engineering, University of Toronto. During this year, I applied for transfer admission into some universities in the US, and I decided to commit to UMich for my next 3 years to study Computer Science.
 
 
 ### Here is the list of CS-related courses I have taken.
