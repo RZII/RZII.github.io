@@ -7,7 +7,9 @@ This is my [GitHub Homepage](https://github.com/RZII), and my [LinkedIn Homepage
 ### Here is the list of CS-related courses I have taken.
 
 1. [APS 105](https://engineering.calendar.utoronto.ca/course/aps105h1), an introductory course in C language, from UofT. This was the very first CS course I had taken, and I enjoyed it quite a lot: the course content and the instructor Baochun Li were great.
+
 2. [Python for Everybody](https://www.py4e.com), an introductory online course in Python, taught by a professor from UMich. I did not enjoy it much because of the nature of this course: for everybody, as it stopped the course content from going into depth.
+
 
 
 ### Here is the list of courses I am currently taking.
