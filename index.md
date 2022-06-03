@@ -1,6 +1,6 @@
-# Welcome to My Personal Website
+# Welcome！
 
-This website is still under construction. I am still learning how to build and decorate a website, so it might look pretty messy for the moment.
+Hi! This website is still under construction. I am still learning how to build and decorate a website, so it might look pretty messy for the moment.
 
 This is my [GitHub Homepage](https://github.com/RZII), and my [LinkedIn Homepage](https://www.linkedin.com/in/hanxiang-zhang-472a26223/).
 
