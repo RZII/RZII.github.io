@@ -11,7 +11,7 @@ I was born in Shanghai, China. I went to Switerland for my High School studying 
 Graduating from High School, I spent my freshman year (Sep 2021 - May 2022) at Faculty of Applied Science and Engineering, University of Toronto. During this year, I applied for transfer admission into some universities in the US, and I was luckily admitted to University of Michigan for my next 3 years to study Computer Science.
 
 
-### Here is the list of CS-related courses I have taken.
+### Here is a list of CS-related courses I have taken.
 
 1. [APS 105](https://engineering.calendar.utoronto.ca/course/aps105h1), an introductory course in C language, from UofT. This was the very first CS course I had taken, and I enjoyed it quite a lot: the course content and the instructor Baochun Li were great.
 
@@ -19,7 +19,7 @@ Graduating from High School, I spent my freshman year (Sep 2021 - May 2022) at F
 
 
 
-### Here is the list of courses I am currently taking.
+### Here is a list of courses I am currently taking.
 
 1. [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/fa21/), SICP in Python, from UCB.
 
