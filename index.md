@@ -23,15 +23,21 @@ Graduating from High School, I spent my freshman year (Sep 2021 - May 2022) at F
 
 ### Here is a list of courses I am currently taking.
 
-1. [MIT Missing Semester](https://missing.csail.mit.edu), a course on CS toolbox, from MIT.
-
+1. [CS 70](https://www.eecs70.org/), Discrete Mathematics, from UCB.
+2. [CS 61BL](https://cs61bl.org/su22/), Data Structures, from UCB.
 
 
 ## Updates
 
+**Jun 21, 2022**
+
+I went on a trip to California after finishing CS 61A. I started CS 61BL and CS 70 today, and I will finish them on Aug 12th.
+
 **Jun 12, 2022**
 
 I finished CS 61A!
+
+
 
 
 
