@@ -31,7 +31,7 @@ Graduating from High School, I spent my freshman year (Sep 2021 - May 2022) at F
 
 **Jun 21, 2022**
 
-I went on a trip to California after finishing CS 61A. I started CS 61BL and CS 70 today, and I will finish them on Aug 12th.
+I went on a trip to Berkeley, California after finishing CS 61A. I started CS 61BL and CS 70 today, and I will finish them on Aug 12th.
 
 **Jun 12, 2022**
 
