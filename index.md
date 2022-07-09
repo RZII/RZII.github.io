@@ -23,7 +23,7 @@ Graduating from Highschool, I spent my freshman year (Sep 2021 - May 2022) at Fa
 
 ### Here is a list of courses I am currently taking.
 
-
+NULL
 
 
 ## Updates
