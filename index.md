@@ -23,11 +23,16 @@ Graduating from Highschool, I spent my freshman year (Sep 2021 - May 2022) at Fa
 
 ### Here is a list of courses I am currently taking.
 
-1. [CS 70](https://www.eecs70.org/), Discrete Mathematics, from UCB.
-2. [CS 61BL](https://cs61bl.org/su22/), Data Structures, from UCB. Sadly, I cannot share my codes repo publicly due to course policies.
+
 
 
 ## Updates
+
+**Jul 9, 2022**
+
+I dropped the two courses because of the excessive workloads (both course instructors said that do not take a second course during the summer due to the heavy workload of either course), and there was no point taking one before another (due to some policies of UMich CS Department).
+
+In addition, I found that I have had no real "breaks/vacations" since 2021 March, so I figured that I really need one before the Fall semester begins. Thus, my summer plan for the next two months would be study something "chill": basic syntaxs, intro courses, or command-line stuffs.
 
 **Jun 21, 2022**
 
