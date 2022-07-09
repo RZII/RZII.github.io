@@ -1,11 +1,12 @@
 # Welcome！
 
-
 Hi! I am still learning how to build and decorate a website, so it might look pretty messy for the moment.
 
 This is my [GitHub Homepage](https://github.com/RZII), and my [LinkedIn Homepage](https://www.linkedin.com/in/hanxiang-zhang-472a26223/).
 
 ## A bit about me
+
+UMich 2025', majored in Computer Science.
 
 I was born in Shanghai, China. I went to Switerland for my Highschool studying IB (International Baccalaureate).
 
@@ -21,12 +22,21 @@ Graduating from Highschool, I spent my freshman year (Sep 2021 - May 2022) at Fa
 3. [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/fa21/), SICP in Python, from UCB. I enjoyed this course a lot, especially the projects because 3 out of 4 projects in this course are about writing a video game.  It is a lower-division CS course, but it did teach me a lot of new stuff (e.g. OOP). This is the link of [my codes repo](https://github.com/RZII/CS61A-FA21) for this course.
 
 
-### Here is a list of courses I am currently taking.
+### Here is a list of CS-related courses I am currently taking.
 
 NULL - summer vacation time !
 
 
-## Updates
+### Here is a list of CS-related courses I enrolled for the next semester.
+
+1. [EECS 280](https://eecs280.org/), Data Structures, from UMich.
+
+2. EECS 203, Discrete Mathematics, from UMich.
+
+3. MATH 217, Linear Algebra, from UMich.
+
+
+# Updates
 
 **Jul 9, 2022**
 
